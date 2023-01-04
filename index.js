@@ -1,3 +1,5 @@
+'use strict';
+
 module.exports = arr => {
     let sorted = true;
     while (sorted) {

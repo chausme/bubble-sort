@@ -1,15 +1,23 @@
 {
-  "name": "simple-bubble-sort",
-  "version": "1.0.0",
-  "description": "Simple bubble sort algorithm implementation",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/chausme/simple-bubble-sort.git"
-  },
-  "author": "chausme",
-  "license": "ISC"
+    "name": "simple-bubble-sort",
+    "version": "1.0.0",
+    "description": "Simple bubble sort algorithm implementation",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/chausme/simple-bubble-sort.git"
+    },
+    "keywords": ["algorithms", "sort", "algorithm", "sorting"],
+    "author": "chausme",
+    "license": "ISC",
+    "devDependencies": {
+        "eslint": "^8.31.0",
+        "eslint-config-airbnb-base": "^15.0.0",
+        "eslint-config-prettier": "^8.6.0",
+        "eslint-plugin-import": "^2.26.0",
+        "prettier": "2.8.1"
+    }
 }

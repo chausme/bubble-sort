@@ -1,6 +1,6 @@
 {
     "name": "simple-bubble-sort",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Simple bubble sort algorithm implementation",
     "main": "index.js",
     "scripts": {
@@ -12,12 +12,5 @@
     },
     "keywords": ["algorithms", "sort", "algorithm", "sorting"],
     "author": "chausme",
-    "license": "MIT",
-    "devDependencies": {
-        "eslint": "^8.31.0",
-        "eslint-config-airbnb-base": "^15.0.0",
-        "eslint-config-prettier": "^8.6.0",
-        "eslint-plugin-import": "^2.26.0",
-        "prettier": "2.8.1"
-    }
+    "license": "MIT"
 }

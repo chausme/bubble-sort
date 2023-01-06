@@ -4,6 +4,7 @@
     "description": "Simple bubble sort algorithm implementation",
     "main": "index.js",
     "scripts": {
+        "eslint": "npx eslint index.js",
         "test": "node tests/index.mjs"
     },
     "repository": {

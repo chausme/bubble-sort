@@ -1,6 +1,6 @@
 {
     "name": "simple-bubble-sort",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Simple bubble sort algorithm implementation",
     "main": "index.js",
     "scripts": {

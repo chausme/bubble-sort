@@ -1,5 +1,7 @@
 # Simple Bubble Sort
 
+[![npm](https://img.shields.io/npm/v/simple-bubble-sort.svg?style=flat-square)](https://www.npmjs.com/package/simple-bubble-sort)
+
 Simple bubble sort algorithm implementation
 
 # Install

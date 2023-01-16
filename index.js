@@ -1,4 +1,4 @@
-module.exports = arr => {
+const bubbleSort = arr => {
     let sorted = true;
     while (sorted) {
         sorted = false;
@@ -13,3 +13,5 @@ module.exports = arr => {
     }
     return arr;
 };
+
+export default bubbleSort;

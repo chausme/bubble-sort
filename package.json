@@ -1,11 +1,12 @@
 {
     "name": "simple-bubble-sort",
-    "version": "1.0.3",
+    "version": "2.0.1",
     "description": "Simple bubble sort algorithm implementation",
     "main": "index.js",
+    "type": "module",
     "scripts": {
         "eslint": "npx eslint index.js",
-        "test": "node tests/index.mjs"
+        "test": "node tests/index.js"
     },
     "repository": {
         "type": "git",
